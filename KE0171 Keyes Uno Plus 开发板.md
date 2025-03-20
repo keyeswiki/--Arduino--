@@ -156,8 +156,7 @@ void loop() {
 ---
 
 ## 9. 参考链接
-- [Keyes 官方网站](http://www.keyes.com.cn)  
-- [Keyes 天猫旗舰店](https://keyes.tmall.com)  
+- [Keyes 官方网站](http://www.keyes-robot.com/)   
 - [Arduino 官方网站](https://www.arduino.cc)  
 - [CP2102 驱动下载](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)  
 - [Arduino IDE 下载](https://www.arduino.cc/en/software)  

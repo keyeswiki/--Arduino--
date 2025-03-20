@@ -128,7 +128,6 @@ KE0005 Keyes Pro Mini 是一款基于 Arduino Pro Mini 的兼容开发板，专�
 #### **8. 参考链接**
 - **Arduino 官网**：[https://www.arduino.cc/](https://www.arduino.cc/)  
 - **Keyes 官网**：[http://www.keyes-robot.com/](http://www.keyes-robot.com/)  
-- **Keyes 天猫旗舰店**：[https://keyes.tmall.com/](https://keyes.tmall.com/)  
 - **FT232 驱动下载**：[https://ftdichip.com/drivers/](https://ftdichip.com/drivers/)  
 - **CP2102 驱动下载**：[https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)  
 - **CH340 驱动下载**：[http://www.wch.cn/downloads/category/24.html](http://www.wch.cn/downloads/category/24.html)  

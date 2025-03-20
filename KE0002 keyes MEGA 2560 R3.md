@@ -149,7 +149,6 @@ void loop() {
 #### **9. 参考链接**
 - **Arduino 官网**：[https://www.arduino.cc/](https://www.arduino.cc/)  
 - **Keyes 官网**：[http://www.keyes-robot.com/](http://www.keyes-robot.com/)  
-- **Keyes 天猫旗舰店**：[https://keyes.tmall.com/](https://keyes.tmall.com/)  
 - **Arduino IDE 下载**：[https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)   
 
 Keyes MEGA 2560 R3 是一款功能强大、易于使用的开发板，非常适合电子开发初学者和进阶用户快速上手 Arduino 项目开发。通过其丰富的接口和强大的兼容性，用户可以轻松实现各种复杂的创意项目。

@@ -142,7 +142,6 @@ void loop() {
 #### **9. 参考链接**
 - **Arduino 官网**：[https://www.arduino.cc/](https://www.arduino.cc/)  
 - **Keyes 官网**：[http://www.keyes-robot.com/](http://www.keyes-robot.com/)  
-- **Keyes 天猫旗舰店**：[https://keyes.tmall.com/](https://keyes.tmall.com/)  
 - **Arduino IDE 下载**：[https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)     
 - **USB HID 项目参考**：[Arduino Leonardo HID 示例](https://www.arduino.cc/en/Reference/MouseKeyboard)  
 
