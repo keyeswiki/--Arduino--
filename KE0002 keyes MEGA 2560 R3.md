@@ -1,4 +1,4 @@
-### KE0002 Keyes MEGA 2560 R3 开发板详细说明
+### KE0002 Keyes MEGA 2560 R3 开发板
 
 ![](media/image-20250312152056855.png)
 

@@ -1,4 +1,4 @@
-### KE0001 Keyes UNO R3 开发板详细说明
+### KE0001 Keyes UNO R3 开发板
 
 ![](media/image-20250312151858634.png)
 

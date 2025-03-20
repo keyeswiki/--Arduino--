@@ -1,4 +1,4 @@
-### KE0005 Keyes Pro Mini 开发板详细说明
+### KE0005 Keyes Pro Mini 开发板
 
 ![image-20250312152515653](media/image-20250312152515653.png)
 

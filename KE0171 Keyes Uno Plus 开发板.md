@@ -1,4 +1,4 @@
-# KE0171 Keyes Uno Plus 开发板综合指南
+# KE0171 Keyes Uno Plus 开发板
 
 ![](media/img-20250319170911.png)
 

@@ -1,4 +1,4 @@
-### KE0004 Keyes Leonardo R3 开发板详细说明
+### KE0004 Keyes Leonardo R3 开发板
 
 ![image-20250312152439526](media/image-20250312152439526.png)
 

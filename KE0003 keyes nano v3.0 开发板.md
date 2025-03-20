@@ -1,4 +1,4 @@
-### KE0003 Keyes NANO V3.0 开发板详细说明
+### KE0003 Keyes NANO V3.0 开发板
 
 ![image-20250312152347574](media/image-20250312152347574.png)
 
